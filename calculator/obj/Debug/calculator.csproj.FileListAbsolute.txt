@@ -1,0 +1,40 @@
+C:\Users\李连珅\source\repos\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\李连珅\source\repos\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\李连珅\source\repos\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\李连珅\source\repos\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\李连珅\source\repos\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\李连珅\source\repos\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\李连珅\source\repos\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\李连珅\source\repos\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\李连珅\source\repos\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\李连珅\source\repos\calculator\calculator\obj\Debug\calculator.pdb
+D:\C#projects\calculator\calculator\bin\Debug\calculator.exe.config
+D:\C#projects\calculator\calculator\bin\Debug\calculator.exe
+D:\C#projects\calculator\calculator\bin\Debug\calculator.pdb
+D:\C#projects\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+D:\C#projects\calculator\calculator\obj\Debug\calculator.Form1.resources
+D:\C#projects\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\C#projects\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+D:\C#projects\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+D:\C#projects\calculator\calculator\obj\Debug\calculator.exe
+D:\C#projects\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\李连珅\Documents\WeChat Files\wxid_21our8mnaqsb22\FileStorage\File\2024-04\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\李连珅\Documents\WeChat Files\wxid_21our8mnaqsb22\FileStorage\File\2024-04\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\李连珅\Documents\WeChat Files\wxid_21our8mnaqsb22\FileStorage\File\2024-04\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\李连珅\Documents\WeChat Files\wxid_21our8mnaqsb22\FileStorage\File\2024-04\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\李连珅\Documents\WeChat Files\wxid_21our8mnaqsb22\FileStorage\File\2024-04\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\李连珅\Documents\WeChat Files\wxid_21our8mnaqsb22\FileStorage\File\2024-04\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\李连珅\Documents\WeChat Files\wxid_21our8mnaqsb22\FileStorage\File\2024-04\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\李连珅\Documents\WeChat Files\wxid_21our8mnaqsb22\FileStorage\File\2024-04\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\李连珅\Documents\WeChat Files\wxid_21our8mnaqsb22\FileStorage\File\2024-04\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\李连珅\Documents\WeChat Files\wxid_21our8mnaqsb22\FileStorage\File\2024-04\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\TC\Desktop\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\TC\Desktop\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\TC\Desktop\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\TC\Desktop\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\TC\Desktop\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\TC\Desktop\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\TC\Desktop\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\TC\Desktop\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\TC\Desktop\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\TC\Desktop\calculator\calculator\obj\Debug\calculator.pdb
